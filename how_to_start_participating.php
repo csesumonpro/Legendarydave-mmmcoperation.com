@@ -6,7 +6,7 @@
 How to start participating? </h1>
 <p>So, you have decided to participate in MMM. What to do? It&rsquo;s very easy! Just follow the steps below.</p>
 <ol style="background:#FFFFCC;">
-<li><a href="registration" target="_blank">Register at the website</a>.</li>
+<li><a href="registration.php" target="_blank">Register at the website</a>.</li>
 <li>Enter your Personal Office.</li>
 <li>There will be two big buttons. &ldquo;Provide help&rdquo; and &ldquo;Get help&rdquo;.</li>
 <li>If you want to contribute money, click &ldquo;Provide help&rdquo; and specify the amount you want to put into the system. The minimum amount is in BTC 0.005 & maximum 4 BTC, ETH 0.005 & maximum 4 ETH, LTC 0.005 & maximum 4 LTC, .<span id="result_box" lang="en"></span>.</li>
@@ -34,7 +34,7 @@ In MMM there is no central account where all participants&rsquo; money accumulat
 <li>Transfer money to the participant. He or she confirms the receipt and your MAVROs become &ldquo;confirmed&rdquo;. That&rsquo;s it! Now you can sell them whenever you want, total amount or a part of it.</li>
 <li>If you want to sell your MAVROs click &ldquo;Get help&rdquo; and specify the amount.<br/>
 Other participant will receive the order and will send you the money (provide help). As you did earlier! Don&rsquo;t forget to confirm the receipt of help as soon as the money is on your bank account (But no earlier! Be careful with frauds!). If you don&rsquo;t do it the sender&rsquo;s MAVROs won&rsquo;t be confirmed.</li>
-<li>You can read the detailed rules of system on the page <a href="what_is_mmm" target="_blank">&ldquo;What is MMM&rdquo;</a>.</li>
+<li>You can read the detailed rules of system on the page <a href="what_is_mmm.php" target="_blank">&ldquo;What is MMM&rdquo;</a>.</li>
 </ol>
 <p>At the beginning we recommend contributing a small sum of money that isn&rsquo;t critical for you and go through the process from the start to the end. From the registration to getting help. Therefore, everything will be clear and there won&rsquo;t be any doubts.</p>
 </section>

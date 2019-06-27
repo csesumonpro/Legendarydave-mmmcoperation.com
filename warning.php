@@ -38,6 +38,6 @@ Today you help others — tomorrow you will be helped!</p>
 <p style="color:red;"><span style="background:yellow;">And in general, you can lose all your money. Always remember about this and participate only with spare money. Or do not participate at all! Amen. :-))</span></p>
 </div>
 <p>&nbsp;</p>
-<p style="text-align:center;"><a href="registration" style="font-size:20px;color:#fff;text-transform:uppercase;padding:10px 30px;background:#2E962E;">BACK TO REGISTRATION</a></p>
+<p style="text-align:center;"><a href="registration.php" style="font-size:20px;color:#fff;text-transform:uppercase;padding:10px 30px;background:#2E962E;">BACK TO REGISTRATION</a></p>
 </section>
 <?php include "footer.php"; ?>
